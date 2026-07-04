@@ -1798,7 +1798,7 @@ function shuaxinlb(zji)
 end
 shuaxinlb(true)
 
-local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/odhdshhe/wumin/refs/heads/main/Protected_9292296694365778.txt"))()
+local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/asehbzi/H-/refs/heads/main/H%E9%A3%9E%E8%A1%8C"))()
 local window = library:new("小秋--伐木大亨2", '')
 local Tab1 = window:Tab("玩家功能", "10882439086")
 local Section3 = Tab1:section("玩家", false)
